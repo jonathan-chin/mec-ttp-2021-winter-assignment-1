@@ -14,7 +14,12 @@ You are going to produce a miniature version of a Choose Your Own Adventure stor
 
 ```
 ## [arrive at archery competition]
-You arrive at the archery competition disguised as a peasant. No one would ever recognize you; even if they could, the dirty blanket you have wrapped around your head stinks so much that no one would come within 10 feet of you. The crowd is bustling but you have your eyes fixed on the king. As he steps up to make opening remarks, your chance for revenge takes shape. Do you:
+You arrive at the archery competition disguised as a peasant.
+No one would ever recognize you; even if they could, the dirty
+blanket you have wrapped around your head stinks so much that
+no one would come within 10 feet of you. The crowd is bustling
+but you have your eyes fixed on the king. As he steps up to make
+opening remarks, your chance for revenge takes shape. Do you:
 
 **[call him out]** Yell over the noise and call him out.
 **[wait]** Hold your tongue until you can get closer.
@@ -22,7 +27,10 @@ You arrive at the archery competition disguised as a peasant. No one would ever 
 ---
 
 ## [call him out]
-You shout, "I am the daughter of Aragorn! I'm here to reclaim my kingdom!" Unfortunately, the king had been expecting you and royal guards appear next to you before you can know it. They lock you in shackles in the deepest corner of the dungeon.
+You shout, "I am the daughter of Aragorn! I'm here to reclaim
+my kingdom!" Unfortunately, the king had been expecting you
+and royal guards appear next to you before you can know it.
+They lock you in shackles in the deepest corner of the dungeon.
 
 **[end]**
 ```
