@@ -48,3 +48,7 @@ Each student on your team must have contributed at least 3 story segments, creat
 Submit a single github link before 11:59pm EST on Jan 4, 2021 using the following form. Only one student on your team needs to submit and be sure to tag all the team members when submitting.
 
 [https://airtable.com/shrdhk3TgUWZ6pFO5](https://airtable.com/shrdhk3TgUWZ6pFO5)
+
+## Extension
+
+If you feel comfortable having met all the requirements and want to continue, you can try the following: replace our [key] convention with clickable links. Hint: this is the same technique that others use to build clickable table of contents in GitHub README files.
