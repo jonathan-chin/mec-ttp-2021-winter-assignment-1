@@ -45,7 +45,7 @@ Once you have a decent chunk of story segments, begin using advanced features of
 
 Each student on your team must have contributed at least 3 story segments, created and resolved at least 2 issues, and created at least 1 feature branch. For this assignment, we will review commit histories and open / closed issues.
 
-Submit a single github link before 11:59pm EST on Jan 4, 2021 using the following form. Only one student on your team needs to submit and be sure to tag all the team members when submitting.
+Submit a single github link before 11:59pm EST on **Jan 5, 2021** using the following form. Only one student on your team needs to submit and be sure to tag all the team members when submitting.
 
 [https://airtable.com/shrdhk3TgUWZ6pFO5](https://airtable.com/shrdhk3TgUWZ6pFO5)
 
